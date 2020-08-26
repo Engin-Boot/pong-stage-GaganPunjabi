@@ -15,4 +15,3 @@ Players having highest level in the database is dispayed
   When - Player clicks on display leadership board
 
   Then - Player having highest level is displayed along with level
-
