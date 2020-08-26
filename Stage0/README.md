@@ -1,8 +1,9 @@
-# The Essentials
+# About the game
 
-1. Breakdown the problem into modules. Name each module
-1. Rename the 'give-me-a-name...' files to reflect the module names.
-Create more files for more modules.
-Fill the responsibility and acceptance-criteria in each module.
-1. Fill the sequence-start file with the details of module-interactions,
-as indicated in that file.
+The game can be played in single or a player mode. A player firstly needs to have an account to play the game. You can create an account in case of not having an account. 
+
+# Rules for playing Game
+
+<ui> Game will be started by player 1. Player 2 can be another player or a bot. A goal is considered when the ball hits the wall of the opposite player. The player who first scores 10 goals is considered as the winner of the game.
+
+![Sample Deployment](./pong_game.png)
