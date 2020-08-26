@@ -32,7 +32,7 @@ Player able to play the game
 
   Then - A goal is added to the scorecard of the player.
 
-### Scenario: Players start the game
+### Scenario: Players scores 10
 
   Given - Player starts the game
 
