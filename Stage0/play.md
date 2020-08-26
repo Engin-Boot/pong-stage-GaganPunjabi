@@ -38,4 +38,14 @@ Player able to play the game
 
   When - Scorecard reaches 10 of any of  the player
 
-  Then - The player whose score is 10 is declared as the winner.
+  Then - The player whose score is 10 is declared as the winner and level is incremented.
+  AND Player 2 level is decremented.
+
+### Scenario: Players exits the game in middle of the game
+
+  Given - Players are playing the game
+
+  When - A player exits the game
+
+  Then - The second player is declared as winner and level is incremented.
+  AND Player 2 level is decremented.

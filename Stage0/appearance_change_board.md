@@ -6,13 +6,13 @@ Appearance of board
 
 ## Acceptance Criteria
 
-Players can change dimension and colour of board.
+Players can change dimension and color of board.
 
-### Scenario: Change colour of board
+### Scenario: Change color of board
 
   Given - Player has already been registered
 
-  When - Player select the colour of board from the selection.
+  When - Player select the color of board from the selection.
 
   Then - Board appears in the selected color.
 
