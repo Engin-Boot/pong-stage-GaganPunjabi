@@ -2,7 +2,7 @@
 
 ## Feature
 
-Sign IN
+Begin Game
 
 ## Acceptance Criteria
 
