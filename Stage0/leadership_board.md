@@ -6,7 +6,7 @@ Leadership board
 
 ## Acceptance Criteria
 
-Players having highest level in the database is dispayed
+Players having the highest level in the database is displayed
 
 ### Scenario: Sign in
 
@@ -14,4 +14,4 @@ Players having highest level in the database is dispayed
 
   When - Player clicks on display leadership board
 
-  Then - Player having highest level is displayed along with level
+  Then - Player having the highest level is displayed along with the level

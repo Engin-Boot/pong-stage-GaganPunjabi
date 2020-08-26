@@ -6,17 +6,17 @@ Appearance of ball
 
 ## Acceptance Criteria
 
-Players is able to change dimension and colour.
+Players are able to change dimensions and colors.
 
-### Scenario: Change colour of ball
+### Scenario: Change color of the ball
 
   Given - Player has already been registered
 
-  When - Player select the colour of ball from the selection.
+  When - Player selects the color of the ball from the selection.
 
   Then - Ball appears in the selected color.
 
-### Scenario: Change dimension of ball
+### Scenario: Change the dimension of ball
 
   Given - Player has already been registered
 
